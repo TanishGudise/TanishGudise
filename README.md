@@ -1,4 +1,4 @@
-Tanish Gudise
+###Tanish Gudise
 
 CS + Business @ Carnegie Mellon '27 · GPU kernels and inference, agent infrastructure, and evals
 
