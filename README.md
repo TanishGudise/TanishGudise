@@ -7,8 +7,9 @@ CS + Business @ Carnegie Mellon '27 · GPU kernels and inference, agent infrastr
 - [unsloth-zoo #2095](https://github.com/unslothai/unsloth-zoo/pull/2095): MoE QLoRA replay pin on by default, 1.063x faster.
 - [silent-failure-bench](https://github.com/TanishGudise/silent-failure-bench) · [session-memory-bench](https://github.com/TanishGudise/session-memory-bench) · [claims-vs-reality](https://github.com/TanishGudise/claims-vs-reality): pre-registered, exact-graded benchmarks for agent silent failures, cross-session memory, and agents' self-reports.
 - [pipeline-reliability](https://github.com/TanishGudise/pipeline-reliability): 282 validated Harbor tasks in 56 problem families where agents fix reliability bugs in LLM data-pipeline code, each passing an automated QA gate.
+- [fin-model-edits](https://github.com/TanishGudise/fin-model-edits) · [filing-update-evals](https://github.com/TanishGudise/filing-update-evals): exact-graded agent evals on real SEC filings and credit agreements; no LLM judge.
 - Merged reliability fixes in agent infrastructure: [Composio](https://github.com/ComposioHQ/composio/pull/4903) (co-author), [Cua](https://github.com/trycua/cua/pull/5194), [Daytona](https://github.com/daytona/clients/pull/353), [Osmosis](https://github.com/Osmosis-AI/osmosis-sdk-python/pull/444).
-- Airbnb, AI Infrastructure intern: built a conversational agent for an internal prompt-engineering platform, with RAG, OpenTelemetry tracing and an eval harness. Full-time return offer.
+- [Airbnb, AI Infrastructure intern]: built a conversational agent for an internal prompt-engineering platform, with RAG, OpenTelemetry tracing and an eval harness. Full-time return offer.
 - [Parameter Golf](https://github.com/TanishGudise/parameter-golf-16mb): 16MB language model trained on 8×H100s with 60+ tracked ablations; briefly topped the leaderboard.
 
 Python · C/C++ · CUDA · Triton · Go · TypeScript · PyTorch · vLLM · Ray · Docker
